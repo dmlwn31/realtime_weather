@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dmlwn31/realtime_weather.git/static/css/main.9e46c2a8.chunk.css",
+    "main.js": "/dmlwn31/realtime_weather.git/static/js/main.0894cbce.chunk.js",
+    "main.js.map": "/dmlwn31/realtime_weather.git/static/js/main.0894cbce.chunk.js.map",
+    "runtime-main.js": "/dmlwn31/realtime_weather.git/static/js/runtime-main.b4e87abe.js",
+    "runtime-main.js.map": "/dmlwn31/realtime_weather.git/static/js/runtime-main.b4e87abe.js.map",
+    "static/js/2.ad5e0c34.chunk.js": "/dmlwn31/realtime_weather.git/static/js/2.ad5e0c34.chunk.js",
+    "static/js/2.ad5e0c34.chunk.js.map": "/dmlwn31/realtime_weather.git/static/js/2.ad5e0c34.chunk.js.map",
+    "static/js/3.bdec69e0.chunk.js": "/dmlwn31/realtime_weather.git/static/js/3.bdec69e0.chunk.js",
+    "static/js/3.bdec69e0.chunk.js.map": "/dmlwn31/realtime_weather.git/static/js/3.bdec69e0.chunk.js.map",
+    "index.html": "/dmlwn31/realtime_weather.git/index.html",
+    "static/css/main.9e46c2a8.chunk.css.map": "/dmlwn31/realtime_weather.git/static/css/main.9e46c2a8.chunk.css.map",
+    "static/js/2.ad5e0c34.chunk.js.LICENSE.txt": "/dmlwn31/realtime_weather.git/static/js/2.ad5e0c34.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4e87abe.js",
+    "static/js/2.ad5e0c34.chunk.js",
+    "static/css/main.9e46c2a8.chunk.css",
+    "static/js/main.0894cbce.chunk.js"
+  ]
+}
